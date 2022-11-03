@@ -5,7 +5,7 @@ This is a simple AirBnb clone. I've built this project with [React](https://reac
 This project is also a part of Scrimbas [React Basics Course](https://scrimba.com/learn/learnreact). This course is aslo free and open to everyone. If you are looking into learning React I higly recommend this course.   
 
 ## Demo
-[Check out the demo here!](https://gorgeous-snickerdoodle-e7c803.netlify.app/)
+[Check out the demo here!](https://celebrated-cannoli-f4f0bf.netlify.app/)
 
 
 ## Motivation
